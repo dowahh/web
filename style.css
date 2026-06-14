@@ -98,14 +98,6 @@ section h2 {
   padding-left: 14px;
 }
 
-.section-desc {
-  font-size: 13px;
-  color: #6B5E52;
-  font-style: italic;
-  margin-bottom: 20px;
-  padding-left: 19px;
-}
-
 .about-flex {
   display: flex;
   flex-wrap: wrap;
